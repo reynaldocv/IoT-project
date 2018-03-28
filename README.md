@@ -1,6 +1,6 @@
 # IoT-project (Fundamentos da Internet das Coisas)
 
-# Título do projeto: "Identificador de Emoções"
+# Título do projeto: ""
 - Visão geral do projeto: (Uma descrição do projeto com base nos sensores a serem utilizados e com foco na informação ou ação inteligente a ser obtida a partir deles.)
 O projeto consiste em desemvolver uma ferramenta que permita identificar as emoções de uma pessoa, a partir dos dados coletados da pessoa durante um periodo de tempo.
 Quatro emocões básicas foram identificadas (Medo, alegria, tristeza e raiva) das quais vai ser interessante mostrar o que uma pessoa sente através de seus batimentos cardiacos, isto vai permitir tomar ações de regulamento das emoções especialmente as negativas para evitar problemas psicologicos para pessoas com limitações para expresar seus emoções de forma natural.
