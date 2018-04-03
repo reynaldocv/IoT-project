@@ -57,7 +57,7 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
       - Características:
         - Diâmetro: 5mm
         - 
-        <img src="http://lmsotfy.com/so.png" "witdh=50%"/>
+        <img src="http://lmsotfy.com/so.png" "width=50%"/>
       ![stack Overflow](http://lmsotfy.com/so.png)
       
 ## Open-design (extra)
