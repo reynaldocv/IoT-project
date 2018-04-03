@@ -37,7 +37,7 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
         - Precisão
         - Resolução
         - Exatidão
-	- Offset
+        - Offset
         - Linearidade
         - Histerese
         - Tempos de resposta
@@ -58,16 +58,15 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
         - Baixa impedância de saída
       - Características:
         - Sensibilidade
-	- Faixa
-	- Precisão
+        - Faixa
+        - Precisão
         - Resolução
         - Exatidão
-	- Offset
-	- Linearidade
-	- Histerese
-	- Tempos de resposta
-	- Linearidade dinâmica
-
+        - Offset
+        - Linearidade
+        - Histerese
+        - Tempos de resposta
+        - Linearidade dinâmica
    
 
 
