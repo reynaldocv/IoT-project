@@ -28,7 +28,7 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
       - Comprimento com terminais: 32mm
       - Resistência no escuro: 1 MΩ (Lux 0)
       - Resistência na luz: 10-20 KΩ (Lux 10)
-     - Características:
+    - Características:
       - Diâmetro: 5mm
       - Tensão máxima: 150VDC
       - Potência máxima: 100mW
