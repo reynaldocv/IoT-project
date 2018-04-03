@@ -33,15 +33,15 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
         - Resistência na luz: 10-20 KΩ (Lux 10)
       - Características (aulas):
         - Sensibilidade
-		    - Faixa
-		    - Precisão
+	- Faixa
+	- Precisão
         - Resolução
         - Exatidão
-		    - Offset
-		    - Linearidade
-		    - Histerese
-		    - Tempos de resposta
-		    - Linearidade dinâmica
+	- Offset
+	- Linearidade
+	- Histerese
+	- Tempos de resposta
+	- Linearidade dinâmica
          
       
   - O sensor temperatura (Modelo LM35) 
@@ -57,7 +57,16 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
         - Temperatura de trabalho em range completo: -55 a +150º C;
         - Baixa impedância de saída
       - Características:
-        - Diâmetro: 5mm
+        - Sensibilidade
+	- Faixa
+	- Precisão
+        - Resolução
+        - Exatidão
+	- Offset
+	- Linearidade
+	- Histerese
+	- Tempos de resposta
+	- Linearidade dinâmica
 
    
 
@@ -74,10 +83,7 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
         - Temperatura de trabalho em modo básico: 2 a 150ºC;
         - Temperatura de trabalho em range completo: -55 a +150º C;
         - Baixa impedância de saída
-      - Características:
-        - Diâmetro: 5mm
-        - 
-
+      
   - O Módulo Wireless ESP8266 permite conectar o seu Arduino nas redes wireless 802.11 b/g/n, enviando e recebendo dados nos modos AP (Access Point/Ponto de acesso) e STA (Station)  ![stack Overflow](Esp8266.png)
 
 
@@ -89,11 +95,7 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
         - Modos de operação : Cliente, Access Point, Cliente+Access Point
         - Modos de segurança wireless : OPEN/WEP/WPA_PSK/WPA2_PSK/WPA_WPA2_PSK.
         - Suporta comunicação TCP e UDP, com até 5 conexões simultâneas
-      - Características:
-        - Diâmetro: 5mm
-        - 
-
-   
+      
    
    
    
