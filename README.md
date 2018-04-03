@@ -37,17 +37,12 @@ Esse sensor não necessita de qualquer calibração externa para fornecer com ex
 
 Ele pode ser usado de duas formas, com alimentação simples ou simétrica, dependendo do que se desejar como sinal de saída, mas independentemente disso, a saída continuará sendo de 10mV/ºC.
 
-  - Especificações:
-
-    -Tensão de Alimentação:  4-30V;
-
-    - Escala Linear: + 10.0 mV/˚C;
-
-    - Temperatura de trabalho em modo básico: 2 a 150ºC;
-
-    - Temperatura de trabalho em range completo: -55 a +150º C;
-
-    - Baixa impedância de saída
+    - Especificações:
+      -Tensão de Alimentação:  4-30V;
+      - Escala Linear: + 10.0 mV/˚C;
+      - Temperatura de trabalho em modo básico: 2 a 150ºC;
+      - Temperatura de trabalho em range completo: -55 a +150º C;
+      - Baixa impedância de saída
 
 
 
