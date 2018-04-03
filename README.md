@@ -45,9 +45,8 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
       - Características:
         - Diâmetro: 5mm
         
-        
-        - O sensor temperatura (Modelo LM35) 
-é um sensor de precisão que apresenta uma saída de tensão linear proporcional à temperatura em que ele se encontrar no momento, tendo em sua saída um sinal de 10mV para cada Grau Célsius de temperatura.
+- O módulo câmera VGA OV7670 é um módulo que permite a captura e armazenamento de imagens coloridas pelo seu Arduino, com uma taxa de atualização de até 30 frames por segundo, com resolução máxima de 640 x 480 Pixels.
+
 
       - Especificações:      
         - Tensão de Alimentação:  4-30V;
