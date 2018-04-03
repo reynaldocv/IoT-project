@@ -44,6 +44,19 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
         - Baixa impedância de saída
       - Características:
         - Diâmetro: 5mm
+        
+        
+        - O sensor temperatura (Modelo LM35) 
+é um sensor de precisão que apresenta uma saída de tensão linear proporcional à temperatura em que ele se encontrar no momento, tendo em sua saída um sinal de 10mV para cada Grau Célsius de temperatura.
+
+      - Especificações:      
+        - Tensão de Alimentação:  4-30V;
+        - Escala Linear: + 10.0 mV/˚C;
+        - Temperatura de trabalho em modo básico: 2 a 150ºC;
+        - Temperatura de trabalho em range completo: -55 a +150º C;
+        - Baixa impedância de saída
+      - Características:
+        - Diâmetro: 5mm
         - 
 
 
