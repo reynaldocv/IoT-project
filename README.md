@@ -45,7 +45,7 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
       - Características:
         - Diâmetro: 5mm
         
-- O módulo câmera VGA OV7670 é um módulo que permite a captura e armazenamento de imagens coloridas pelo seu Arduino, com uma taxa de atualização de até 30 frames por segundo, com resolução máxima de 640 x 480 Pixels.
+  - O módulo câmera VGA OV7670 é um módulo que permite a captura e armazenamento de imagens coloridas pelo seu Arduino, com uma taxa de atualização de até 30 frames por segundo, com resolução máxima de 640 x 480 Pixels.
 
 
       - Especificações:      
