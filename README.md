@@ -30,7 +30,7 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
       - Resistência na luz: 10-20 KΩ (Lux 10)
       
       
-  - O sensor LM35 
+  - O sensor temperatura (Modelo LM35) 
 é um sensor de precisão que apresenta uma saída de tensão linear proporcional à temperatura em que ele se encontrar no momento, tendo em sua saída um sinal de 10mV para cada Grau Célsius de temperatura.
 
       - Especificações:
