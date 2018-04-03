@@ -1,18 +1,36 @@
 
 # IoT-project (Fundamentos da Internet das Coisas)
 
-# Título do projeto: "Refrigeradora Inteligente"
-
 - Visão geral do projeto: 
 
 O projeto consiste em saber que coisas (insumos) têm ou não têm dentro de refrigerador. 
 
-O projeto a discutir, pode ajudar às pessoas no momento de saber as compras, proporcionando uma lista
-das coisas que tinham no refrigerador e que agora não tem. 
+A projeto a discutir, pode ajudar às pessoas no momento de saber as compras, proporcionando uma lista
+das coisas que tinham no refrigerador e que agora não tem. Assim, também é possível saber que insumos 
+são consumidos muito rápido para recomendar sua compra em maior quantidade.
 
 - Público alvo: 
 
-Toda pessoa que tem um refrigerador.
+Toda pessoa que tem um refrigerador. 
+
+# Descrição técnica
+- Sensores: 
+
+--Sensor de Luminosidade LDR 5mm 
+O LDR (Light Dependent Resistor) é um componente cuja resistência varia de acordo com a intensidade da luz. Quanto mais luz incidir sobre o componente, menor a resistência. Este sensor de luminosidade pode ser utilizado em projetos com arduino e outros microcontroladores para alarmes, automação residencial, sensores de presença e etc.
+
+Especificações:
+- Modelo: GL5528 (datasheet)
+- Diâmetro: 5mm
+- Tensão máxima: 150VDC
+- Potência máxima: 100mW
+- Tensão de operação:  -30°C a 70°C
+- Espectro: 540nm
+- Comprimento com terminais: 32mm
+- Resistência no escuro: 1 MΩ (Lux 0)
+- Resistência na luz: 10-20 KΩ (Lux 10)
+
+
 
 # Descrição técnica
 - Sensores: (Quais sensores serão utilizados, onde eles poderão ser instalados, e a razão dessas escolhas.)
