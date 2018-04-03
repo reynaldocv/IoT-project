@@ -1,4 +1,3 @@
-# IoT-project (Fundamentos da Internet das Coisas)
 
 # IoT-project (Fundamentos da Internet das Coisas)
 
