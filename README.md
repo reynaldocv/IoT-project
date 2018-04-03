@@ -7,7 +7,7 @@
 
 O projeto consiste em saber que coisas (insumos) têm ou não têm dentro de refrigerador. 
 
-A projeto a discutir, pode ajudar às pessoas no momento de saber as compras, proporcionando uma lista
+O projeto a discutir, pode ajudar às pessoas no momento de saber as compras, proporcionando uma lista
 das coisas que tinham no refrigerador e que agora não tem. 
 
 - Público alvo: 
