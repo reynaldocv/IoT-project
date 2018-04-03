@@ -16,7 +16,7 @@ Toda pessoa que tem um refrigerador.
 # Descrição técnica
 - Sensores: 
 
--Sensor de Luminosidade LDR 5mm 
+- - Sensor de Luminosidade LDR 5mm 
 O LDR (Light Dependent Resistor) é um componente cuja resistência varia de acordo com a intensidade da luz. Quanto mais luz incidir sobre o componente, menor a resistência. Este sensor de luminosidade pode ser utilizado em projetos com arduino e outros microcontroladores para alarmes, automação residencial, sensores de presença e etc.
 
 Especificações:
