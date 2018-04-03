@@ -19,6 +19,9 @@ Toda pessoa que tem um refrigerador.
   - Sensor de Luminosidade LDR 5mm (Modelo: GL5528)
 O LDR (Light Dependent Resistor) é um componente cuja resistência varia de acordo com a intensidade da luz. Quanto mais luz incidir sobre o componente, menor a resistência. Este sensor de luminosidade pode ser utilizado em projetos com arduino e outros microcontroladores para alarmes, automação residencial, sensores de presença e etc.
   
+      ![stack Overflow](https://i0.wp.com/portal.vidadesilicio.com.br/wp-content/uploads/2017/05/ldr-5mm.jpg?w=284&ssl=1)
+      
+  
      - Especificações:      
         - Diâmetro: 5mm
         - Tensão máxima: 150VDC
@@ -32,11 +35,14 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
         - muaja
         - muaja
       
-      ![stack Overflow](https://i0.wp.com/portal.vidadesilicio.com.br/wp-content/uploads/2017/05/ldr-5mm.jpg?w=284&ssl=1)
+      ![stack Overflow](https://i2.wp.com/portal.vidadesilicio.com.br/wp-content/uploads/2017/05/sensor-de-luz_bb1.png?resize=1024%2C452&ssl=1)
       
       
   - O sensor temperatura (Modelo LM35) 
 é um sensor de precisão que apresenta uma saída de tensão linear proporcional à temperatura em que ele se encontrar no momento, tendo em sua saída um sinal de 10mV para cada Grau Célsius de temperatura.
+      
+      ![stack Overflow](https://i2.wp.com/portal.vidadesilicio.com.br/wp-content/uploads/2017/05/sensor-de-luz_bb1.png?resize=1024%2C452&ssl=1)
+
 
       - Especificações:      
         - Tensão de Alimentação:  4-30V;
@@ -46,10 +52,16 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
         - Baixa impedância de saída
       - Características:
         - Diâmetro: 5mm
-        
+
+    ![stack Overflow](https://i2.wp.com/portal.vidadesilicio.com.br/wp-content/uploads/2017/05/sensor-de-luz_bb1.png?resize=1024%2C452&ssl=1)
+
+
 - Módulos:
 
   - O módulo câmera VGA OV7670 é um módulo que permite a captura e armazenamento de imagens coloridas pelo seu Arduino, com        uma taxa de atualização de até 30 frames por segundo, com resolução máxima de 640 x 480 Pixels.
+      ![stack Overflow](https://i2.wp.com/portal.vidadesilicio.com.br/wp-content/uploads/2017/05/sensor-de-luz_bb1.png?resize=1024%2C452&ssl=1)
+
+
       - Especificações:      
         - Tensão de Alimentação:  4-30V;
         - Escala Linear: + 10.0 mV/˚C;
