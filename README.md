@@ -20,12 +20,6 @@ Toda pessoa que tem um refrigerador.
 O LDR (Light Dependent Resistor) é um componente cuja resistência varia de acordo com a intensidade da luz. Quanto mais luz incidir sobre o componente, menor a resistência. Este sensor de luminosidade pode ser utilizado em projetos com arduino e outros microcontroladores para alarmes, automação residencial, sensores de presença e etc.
   
      - Especificações:      
-        - Tensão de Alimentação:  4-30V;
-        - Escala Linear: + 10.0 mV/˚C;
-        - Temperatura de trabalho em modo básico: 2 a 150ºC;
-        - Temperatura de trabalho em range completo: -55 a +150º C;
-        - Baixa impedância de saída
-      - Características:
         - Diâmetro: 5mm
         - Tensão máxima: 150VDC
         - Potência máxima: 100mW
@@ -34,6 +28,9 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
         - Comprimento com terminais: 32mm
         - Resistência no escuro: 1 MΩ (Lux 0)
         - Resistência na luz: 10-20 KΩ (Lux 10)
+      - Características:
+        - muaja
+        - muaja
       
       
   - O sensor temperatura (Modelo LM35) 
@@ -47,15 +44,7 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
         - Baixa impedância de saída
       - Características:
         - Diâmetro: 5mm
-        - Tensão máxima: 150VDC
-        - Potência máxima: 100mW
-        - Tensão de operação:  -30°C a 70°C
-        - Espectro: 540nm
-        - Comprimento com terminais: 32mm
-        - Resistência no escuro: 1 MΩ (Lux 0)
-        - Resistência na luz: 10-20 KΩ (Lux 10)
-    
-
+        - 
 
 
 
