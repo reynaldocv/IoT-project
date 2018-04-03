@@ -31,9 +31,17 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
         - Comprimento com terminais: 32mm
         - Resistência no escuro: 1 MΩ (Lux 0)
         - Resistência na luz: 10-20 KΩ (Lux 10)
-      - Características:
-        - muaja
-        - muaja
+      - Características (aulas):
+        - Sensibilidade
+		    - Faixa
+		    - Precisão
+        - Resolução
+        - Exatidão
+		    - Offset
+		    - Linearidade
+		    - Histerese
+		    - Tempos de resposta
+		    - Linearidade dinâmica
          
       
   - O sensor temperatura (Modelo LM35) 
