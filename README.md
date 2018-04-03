@@ -9,6 +9,8 @@ A projeto a discutir, pode ajudar às pessoas no momento de saber as compras, pr
 das coisas que tinham no refrigerador e que agora não tem. Assim, também é possível saber que insumos 
 são consumidos muito rápido para recomendar sua compra em maior quantidade.
 
+![stack Overflow](refrigerador.png)
+
 - Público alvo: 
 
 Toda pessoa que tem um refrigerador. 
@@ -123,6 +125,14 @@ Com esses dados, podemos fazer um monte de reportes:
  - Preferencias do pessoal da casa.
  Os quais, podem ser enviados para o celular do usuário. 
  
-
+ 
+## Referências   
+ - https://portal.vidadesilicio.com.br/sensor-de-luz-com-ldr/
+ - https://www.filipeflop.com/produto/sensor-de-luminosidade-ldr-5mm/
+ - https://portal.vidadesilicio.com.br/lm35-medindo-temperatura-com-arduino/
+ - https://www.arduinoecia.com.br/2013/02/lm35-sensor-de-temperatura.html
+ - https://www.filipeflop.com/blog/modulo-camera-vga-ov7670/
+ - https://www.robocore.net/loja/produtos/modulo-wifi-esp8266.html
+ - https://www.embarcados.com.br/modulo-esp8266/
 
 
