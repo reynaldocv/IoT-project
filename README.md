@@ -106,21 +106,22 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
 
 A seguir vamos explicar o fluxo da informação:
 
-Cada vez que uma pessoa abre um refrigerador, a luz dele é ligada. 
-É nesse instante que nosso sensor de luminosidade é ativado e manda uma sinal para a câmera e tirar uma foto.
+Cada vez que uma pessoa, abrir o refrigerador, a luz dele é ligada. 
+É nesse instante, o nosso sensor de luminosidade é ativado e manda uma sinal para a câmera, tirar uma foto.
 
-Essa foto é enviada usando o wifi para um datacenter. A foto é analisada e podemos saber a lista de insumos que 
-estão no refrigerador.
+Essa foto é enviada usando o wifi para um datacenter.
+A foto é analisada (ainda em discussão) e podemos saber a lista de insumos que 
+estão no refrigerador nesse momento.
 
 Como foi mencionado, cada vez que o refrigerador foi aberto, uma foto é tirada, então podemos saber
-a lista de insumos novos ou retirados com relação à lista anterior (foto anterior). 
+a lista de insumos novos ou retirados com relação à lista anterior de insumos (foto anterior). 
 
 Com esses dados, podemos fazer um monte de reportes: 
  - Lista de insumos consumidos (que não tem) para sua próxima compra
  - Lista de insumos que são consumidos em poco tempo, para que na próxima vez, poda-se comprar
  uma maior quantidade desses insumos.
  - Preferencias do pessoal da casa.
-
+ Os quais, podem ser enviados para o celular do usuário. 
  
 
 
