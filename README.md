@@ -106,5 +106,12 @@ Como foi mencionado, cada vez que o refrigerador foi aberto, uma foto é tirada,
 a lista de insumos novos ou retirados com relação à lista anterior (foto anterior). 
 
 Com esses dados, podemos fazer um monte de reportes: 
+ - Lista de insumos consumidos (que não tem) para sua próxima compra
+ - Lista de insumos que são consumidos em poco tempo, para que na próxima vez, poda-se comprar
+ uma maior quantidade desses insumos.
+ - Preferencias do pessoal da casa.
+
+ 
+
 
 
