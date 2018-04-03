@@ -31,18 +31,14 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
       
       
   - O sensor LM35 
-  é um sensor de precisão que apresenta uma saída de tensão linear proporcional à temperatura em que ele se encontrar no momento, tendo em sua saída um sinal de 10mV para cada Grau Célsius de temperatura.
+é um sensor de precisão que apresenta uma saída de tensão linear proporcional à temperatura em que ele se encontrar no momento, tendo em sua saída um sinal de 10mV para cada Grau Célsius de temperatura.
 
-Esse sensor não necessita de qualquer calibração externa para fornecer com exatidão, valores temperatura com variações de ¼ºC ou até mesmo ¾ºC dentro da faixa de temperatura entre –55ºC e 150ºC.
-
-Ele pode ser usado de duas formas, com alimentação simples ou simétrica, dependendo do que se desejar como sinal de saída, mas independentemente disso, a saída continuará sendo de 10mV/ºC.
-
-    - Especificações:
-      -Tensão de Alimentação:  4-30V;
-      - Escala Linear: + 10.0 mV/˚C;
-      - Temperatura de trabalho em modo básico: 2 a 150ºC;
-      - Temperatura de trabalho em range completo: -55 a +150º C;
-      - Baixa impedância de saída
+      - Especificações:
+        -Tensão de Alimentação:  4-30V;
+        - Escala Linear: + 10.0 mV/˚C;
+        - Temperatura de trabalho em modo básico: 2 a 150ºC;
+        - Temperatura de trabalho em range completo: -55 a +150º C;
+        - Baixa impedância de saída
 
 
 
