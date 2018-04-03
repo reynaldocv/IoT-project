@@ -28,26 +28,39 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
       - Comprimento com terminais: 32mm
       - Resistência no escuro: 1 MΩ (Lux 0)
       - Resistência na luz: 10-20 KΩ (Lux 10)
+    - Características:
+      - Diâmetro: 5mm
+      - Tensão máxima: 150VDC
+      - Potência máxima: 100mW
+      - Tensão de operação:  -30°C a 70°C
+      - Espectro: 540nm
+      - Comprimento com terminais: 32mm
+      - Resistência no escuro: 1 MΩ (Lux 0)
+      - Resistência na luz: 10-20 KΩ (Lux 10)
       
       
   - O sensor temperatura (Modelo LM35) 
 é um sensor de precisão que apresenta uma saída de tensão linear proporcional à temperatura em que ele se encontrar no momento, tendo em sua saída um sinal de 10mV para cada Grau Célsius de temperatura.
 
-      - Especificações:
-        -Tensão de Alimentação:  4-30V;
+      - Especificações:      
+        - Tensão de Alimentação:  4-30V;
         - Escala Linear: + 10.0 mV/˚C;
         - Temperatura de trabalho em modo básico: 2 a 150ºC;
         - Temperatura de trabalho em range completo: -55 a +150º C;
         - Baixa impedância de saída
+      - Características:
+        - Diâmetro: 5mm
+        - Tensão máxima: 150VDC
+        - Potência máxima: 100mW
+        - Tensão de operação:  -30°C a 70°C
+        - Espectro: 540nm
+        - Comprimento com terminais: 32mm
+        - Resistência no escuro: 1 MΩ (Lux 0)
+        - Resistência na luz: 10-20 KΩ (Lux 10)
+    
 
 
 
-# Descrição técnica
-- Sensores: (Quais sensores serão utilizados, onde eles poderão ser instalados, e a razão dessas escolhas.)
-Sensor de Batimentos Cardiacos:
-
-- Descrição técnica dos sensores: (Apresentar os dados técnicos incluindo as características apresentadas no curso.)
-Características:
 
 ## Open-design (extra)
 (Apresentar o design técnico do projeto utilizando alguma ferramenta de diagrama ou mesmo um desenho à mão. Sugestão de ferramentas: Draw.io, Fritzing.org, Gimp.)
