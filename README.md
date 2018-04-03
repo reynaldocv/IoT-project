@@ -70,16 +70,17 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
         - Diâmetro: 5mm
         - 
 
-  - O módulo câmera VGA OV7670 é um módulo que permite a captura e armazenamento de imagens coloridas pelo seu Arduino, com        uma taxa de atualização de até 30 frames por segundo, com resolução máxima de 640 x 480 Pixels.
-      ![stack Overflow](Esp8266.png)
+  - O Módulo Wireless ESP8266 permite conectar o seu Arduino nas redes wireless 802.11 b/g/n, enviando e recebendo dados nos modos AP (Access Point/Ponto de acesso) e STA (Station)  ![stack Overflow](Esp8266.png)
 
 
       - Especificações:      
-        - Tensão de Alimentação:  4-30V;
-        - Escala Linear: + 10.0 mV/˚C;
-        - Temperatura de trabalho em modo básico: 2 a 150ºC;
-        - Temperatura de trabalho em range completo: -55 a +150º C;
-        - Baixa impedância de saída
+        - Conexão à redes padrão 802.11 B/G/N
+        - Alcance aproximado: 91 metros
+        - Tensão de operação : 3.3 VDC
+        - Comunicação serial: pinos TX e RX
+        - Modos de operação : Cliente, Access Point, Cliente+Access Point
+        - Modos de segurança wireless : OPEN/WEP/WPA_PSK/WPA2_PSK/WPA_WPA2_PSK.
+        - Suporta comunicação TCP e UDP, com até 5 conexões simultâneas
       - Características:
         - Diâmetro: 5mm
         - 
