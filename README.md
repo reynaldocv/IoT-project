@@ -1,7 +1,5 @@
 
-# IoT-project (Fundamentos da Internet das Coisas)
-
-### Vagas no Estacionamento
+# IoT-project (Vagas no Estacionamento)
 
 - Visão geral do projeto: 
 
