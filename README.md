@@ -3,12 +3,12 @@
 
 - Visão geral do projeto: 
 
-O projeto consiste em saber se tem vagas (ou não) num estacionamento. 
+    O projeto consiste em saber se tem vagas (ou não) num estacionamento. 
 
-A projeto a discutir, pode ajudar às pessoas a saber onde eles podem estacionar seu veiculo (no momento), e
+    A projeto a discutir, pode ajudar às pessoas a saber onde eles podem estacionar seu veiculo (no momento), e
 fazer uma estimativa a futuro se no estacionamento.
 
-![stack Overflow](img_car.png)
+![stack Overflow](img/img_car.png)
 
 - Público alvo: 
 
@@ -64,28 +64,17 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
 ## Open-design (extra)
 (Apresentar o design técnico do projeto utilizando alguma ferramenta de diagrama ou mesmo um desenho à mão. Sugestão de ferramentas: Draw.io, Fritzing.org, Gimp.)
 
-
 # Descrição da arquitetura
 
 A seguir vamos explicar o fluxo da informação:
 
-Cada vez que uma pessoa, abrir o refrigerador, a luz dele é ligada. 
-É nesse instante, o nosso sensor de luminosidade é ativado e manda uma sinal para a câmera, tirar uma foto.
-
-Essa foto é enviada usando o wifi para um datacenter.
-A foto é analisada (ainda em discussão) e podemos saber a lista de insumos que 
-estão no refrigerador nesse momento.
-
-Como foi mencionado, cada vez que o refrigerador foi aberto, uma foto é tirada, então podemos saber
-a lista de insumos novos ou retirados com relação à lista anterior de insumos (foto anterior). 
+Cada vez que uma pessoa, quer saber se tem uma vaga no estacionamento, manda una sinal para o Arduino, 
+e tira uma foto (usando o módulo ) no estacionamento, E essa foto é enviada para seu processamento (usando o módulo ).
+E o sistema sabendo quantos carros tem na foto, joga o número de vagas.
 
 Com esses dados, podemos fazer um monte de reportes: 
- - Lista de insumos consumidos (que não tem) para sua próxima compra
- - Lista de insumos que são consumidos em poco tempo, para que na próxima vez, poda-se comprar
- uma maior quantidade desses insumos.
- - Preferencias do pessoal da casa.
- Os quais, podem ser enviados para o celular do usuário. 
- 
+ - (No momento) Quantas vagas tem no estacionamento.
+ - (Estimativas pro futuro) Quantas vagas vai ter, segundo aos dados anteriores? 
  
 ## Referências   
  - https://portal.vidadesilicio.com.br/sensor-de-luz-com-ldr/
