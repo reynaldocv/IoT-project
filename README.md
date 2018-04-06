@@ -3,17 +3,16 @@
 
 - Visão geral do projeto: 
 
-O projeto consiste em saber que coisas (insumos) têm ou não têm dentro de refrigerador. 
+O projeto consiste em saber se tem vagas (ou não) num estacionamento. 
 
-A projeto a discutir, pode ajudar às pessoas no momento de saber as compras, proporcionando uma lista
-das coisas que tinham no refrigerador e que agora não tem. Assim, também é possível saber que insumos 
-são consumidos muito rápido para recomendar sua compra em maior quantidade.
+A projeto a discutir, pode ajudar às pessoas a saber onde eles podem estacionar seu veiculo (no momento), e
+fazer uma estimativa a futuro se no estacionamento.
 
-![stack Overflow](refrigerador.png)
+![stack Overflow](img_car.png)
 
 - Público alvo: 
 
-Toda pessoa que tem um refrigerador. 
+Toda pessoa que tem um veiculo. 
 
 # Descrição técnica
 - Sensores: 
@@ -33,22 +32,7 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
         - Comprimento com terminais: 32mm
         - Resistência no escuro: 1 MΩ (Lux 0)
         - Resistência na luz: 10-20 KΩ (Lux 10)
-         
-      
-  - O sensor temperatura (Modelo LM35) 
-é um sensor de precisão que apresenta uma saída de tensão linear proporcional à temperatura em que ele se encontrar no momento, tendo em sua saída um sinal de 10mV para cada Grau Célsius de temperatura.
-      
-      ![stack Overflow](lm35.png)
-
-
-      - Especificações:      
-        - Tensão de Alimentação:  4-30V;
-        - Escala Linear: + 10.0 mV/˚C;
-        - Temperatura de trabalho em modo básico: 2 a 150ºC;
-        - Temperatura de trabalho em range completo: -55 a +150º C;
-        - Baixa impedância de saída
    
-
 - Módulos:
 
   - O módulo câmera VGA OV7670 é um módulo que permite a captura e armazenamento de imagens coloridas pelo seu Arduino, com        uma taxa de atualização de até 30 frames por segundo, com resolução máxima de 640 x 480 Pixels.
