@@ -8,7 +8,7 @@
     A projeto a discutir, pode ajudar às pessoas a saber onde eles podem estacionar seu veiculo (no momento), e
 fazer uma estimativa a futuro se no estacionamento.
 
-![stack Overflow](img/img_car.png)
+![stack Overflow](/img/img_car.png)
 
 - Público alvo: 
 
