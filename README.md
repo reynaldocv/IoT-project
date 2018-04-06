@@ -20,7 +20,7 @@ Toda pessoa que tem um veiculo.
   - Sensor de Luminosidade LDR 5mm (Modelo: GL5528)
 O LDR (Light Dependent Resistor) é um componente cuja resistência varia de acordo com a intensidade da luz. Quanto mais luz incidir sobre o componente, menor a resistência. Este sensor de luminosidade pode ser utilizado em projetos com arduino e outros microcontroladores para alarmes, automação residencial, sensores de presença e etc.
   
-      ![stack Overflow](ldr.png)
+      ![stack Overflow](/img/ldr.png)
       
   
      - Especificações:      
@@ -36,7 +36,7 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
 - Módulos:
 
   - O módulo câmera VGA OV7670 é um módulo que permite a captura e armazenamento de imagens coloridas pelo seu Arduino, com        uma taxa de atualização de até 30 frames por segundo, com resolução máxima de 640 x 480 Pixels.
-      ![stack Overflow](ov7670.png)
+      ![stack Overflow](/img/ov7670.png)
 
 
       - Especificações:      
@@ -46,7 +46,8 @@ O LDR (Light Dependent Resistor) é um componente cuja resistência varia de aco
         - Temperatura de trabalho em range completo: -55 a +150º C;
         - Baixa impedância de saída
       
-  - O Módulo Wireless ESP8266 permite conectar o seu Arduino nas redes wireless 802.11 b/g/n, enviando e recebendo dados nos modos AP (Access Point/Ponto de acesso) e STA (Station)  ![stack Overflow](Esp8266.png)
+  - O Módulo Wireless ESP8266 permite conectar o seu Arduino nas redes wireless 802.11 b/g/n, enviando e recebendo dados nos modos AP (Access Point/Ponto de acesso) e STA (Station)  
+  ![stack Overflow](/img/Esp8266.png)
 
 
       - Especificações:      
