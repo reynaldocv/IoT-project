@@ -15,24 +15,7 @@ fazer uma estimativa a futuro se no estacionamento.
 Toda pessoa que tem um veiculo. 
 
 # Descrição técnica
-- Sensores: 
-
-  - Sensor de Luminosidade LDR 5mm (Modelo: GL5528)
-O LDR (Light Dependent Resistor) é um componente cuja resistência varia de acordo com a intensidade da luz. Quanto mais luz incidir sobre o componente, menor a resistência. Este sensor de luminosidade pode ser utilizado em projetos com arduino e outros microcontroladores para alarmes, automação residencial, sensores de presença e etc.
   
-      ![stack Overflow](/img/ldr.png)
-      
-  
-     - Especificações:      
-        - Diâmetro: 5mm
-        - Tensão máxima: 150VDC
-        - Potência máxima: 100mW
-        - Tensão de operação:  -30°C a 70°C
-        - Espectro: 540nm
-        - Comprimento com terminais: 32mm
-        - Resistência no escuro: 1 MΩ (Lux 0)
-        - Resistência na luz: 10-20 KΩ (Lux 10)
-   
 - Módulos:
 
   - O módulo câmera VGA OV7670 é um módulo que permite a captura e armazenamento de imagens coloridas pelo seu Arduino, com        uma taxa de atualização de até 30 frames por segundo, com resolução máxima de 640 x 480 Pixels.
