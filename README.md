@@ -15,9 +15,9 @@ fazer uma estimativa a futuro se no estacionamento.
 # Descrição técnica
   
 - RASPBERRY PI 3 MODEL B: É um computador de baixo custo e que tem o tamanho de um cartão de crédito desenvolvido no Reino Unido pela Fundação Raspberry Pi. Para usá-lo, basta plugar um teclado e um mouse padrão a ele e conectar tudo isso a um monitor ou a uma televisão. Os modelos custam entre US$ 25 e US$ 35.
-      
-      ![stack Overflow](/img/Raspberry.png)
 
+![stack Overflow](/img/Raspberry.png)
+      
       - Especificações:      
         - A 1.2GHz 64-bit quad-core ARMv8 CPU
         - 802.11n Wireless LAN
@@ -39,7 +39,7 @@ fazer uma estimativa a futuro se no estacionamento.
         
  - 2 CELULARES: Um para usar sua camera, e outro para usar o aplicativo, de preferência com Android OS.
 
-        ![stack Overflow](/img/celulares.png)
+    ![stack Overflow](/img/celulares.png)
         
         
 ## Open-design (extra)
