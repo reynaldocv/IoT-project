@@ -8,7 +8,7 @@
     A projeto a discutir, pode ajudar às pessoas a saber onde eles podem estacionar seu veiculo (no momento), e
 fazer uma estimativa a futuro se no estacionamento.
 
-   ![stack Overflow](/img/img_car.jpeg)
+            ![stack Overflow](/img/img_car.jpeg)
 
 
 
@@ -39,7 +39,7 @@ fazer uma estimativa a futuro se no estacionamento.
         
  - 2 CELULARES: Um para usar sua camera, e outro para usar o aplicativo, de preferência com Android OS.
 
-    ![stack Overflow](/img/celulares.png)
+             ![stack Overflow](/img/celulares.png)
         
         
 ## Open-design (extra)
