@@ -42,7 +42,9 @@ fazer uma estimativa a futuro se no estacionamento.
         
  - 2 CELULARES: Um para usar sua camera, e outro para usar o aplicativo, de preferência com Android OS.
 
-     ![stack Overflow](/img/celulares.png)
+  <p align="center">
+  <img src="/img/celulares.png">
+</p>
         
         
 ## Open-design (extra)
