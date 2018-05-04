@@ -8,14 +8,19 @@
     A projeto a discutir, pode ajudar às pessoas a saber onde eles podem estacionar seu veiculo (no momento), e
 fazer uma estimativa a futuro se no estacionamento.
 
- ![stack Overflow](/img/img_car.png)
+
+<p align="center">
+  <img src="/img/img_car.png">
+</p>
 
 
 # Descrição técnica
   
 - RASPBERRY PI 3 MODEL B: É um computador de baixo custo e que tem o tamanho de um cartão de crédito desenvolvido no Reino Unido pela Fundação Raspberry Pi. Para usá-lo, basta plugar um teclado e um mouse padrão a ele e conectar tudo isso a um monitor ou a uma televisão. Os modelos custam entre US$ 25 e US$ 35.
-![stack Overflow](/img/Raspberry.png)
 
+<p align="center">
+  <img src="/img/Raspberry.png">
+</p>
       - Especificações:      
         - A 1.2GHz 64-bit quad-core ARMv8 CPU
         - 802.11n Wireless LAN
