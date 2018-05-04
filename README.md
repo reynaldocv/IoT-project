@@ -10,15 +10,11 @@ fazer uma estimativa a futuro se no estacionamento.
 
    ![stack Overflow](/img/img_car.jpeg)
 
-- Público alvo: 
 
-Toda pessoa que tem um veiculo. 
 
 # Descrição técnica
   
-- RASPBERRY PI 3 MODEL B:
-
-  - É um computador de baixo custo e que tem o tamanho de um cartão de crédito desenvolvido no Reino Unido pela Fundação Raspberry Pi. Para usá-lo, basta plugar um teclado e um mouse padrão a ele e conectar tudo isso a um monitor ou a uma televisão. Os modelos custam entre US$ 25 e US$ 35.
+- RASPBERRY PI 3 MODEL B: É um computador de baixo custo e que tem o tamanho de um cartão de crédito desenvolvido no Reino Unido pela Fundação Raspberry Pi. Para usá-lo, basta plugar um teclado e um mouse padrão a ele e conectar tudo isso a um monitor ou a uma televisão. Os modelos custam entre US$ 25 e US$ 35.
       
       ![stack Overflow](/img/Raspberry.png)
 
@@ -38,9 +34,10 @@ Toda pessoa que tem um veiculo.
         - 40-pin GPIO interface
         - Camera interface (CSI)
         - Display interface (DSI)
-        - Upgraded power management, supports more peripherals (requires a 2.5A - 3.0A power supply)Tensão de Alimentação:  4-30V;
+        - Upgraded power management
+        - supports more peripherals (requires a 2.5A - 3.0A power supply)Tensão de Alimentação:  4-30V;
         
- - 2 Celulares (Um para usar sua camera, e outro para usar o aplicativo): De preferência com Android OS.
+ - 2 CELULARES: Um para usar sua camera, e outro para usar o aplicativo, de preferência com Android OS.
 
         ![stack Overflow](/img/Celulares.png)
 ## Open-design (extra)
