@@ -18,13 +18,12 @@ while True:
 	# Finally decode the array to OpenCV usable format ;) 
 	img = cv2.imdecode(imgNp,-1)
 
+	# Save a photo
 	cv2.imwrite('foto.png',img)
+		
+	os.system("sshpass -p '********' scp foto.png reynaldo@ime.usp.br:www/phd/internet_cosas/")
 	
 	#To give the processor some less stress
-	time.sleep(1) 
-
-	os.system("sshpass -p '********' scp foto.png reynaldo@ime.usp.br:www/phd/internet_cosas/")
-
 	time.sleep(1)
 
 	if cv2.waitKey(1) & 0xFF == ord('q'):
