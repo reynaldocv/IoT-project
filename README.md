@@ -57,9 +57,11 @@ fazer uma estimativa a futuro se no estacionamento.
 </p>
 
 # Instalação
-1.- Em um dos celulares instalamos o aplicativo IP Webcam
-(https://pplware.sapo.pt/smartphones-tablets/android/ip-webcam-como-usar-o-seu-android-como-uma-webcam/).
-2.- 
+- Em um dos celulares:
+    - instalamos o aplicativo IP Webcam e executamos. O aplicativo dá um IP onde nós podemos monitorar usando qualquer navegador web (veja a seguiente pagina web https://pplware.sapo.pt/smartphones-tablets/android/ip-webcam-como-usar-o-seu-android-como-uma-webcam/ para mais dados).
+- No Raspberry:
+    - Executamos o código seguinte que tira uma imagem cada certo tempo (cada 1 seg) y joga a foto na internet (nesse caso foi https://www.ime.usp.br/~reynaldo/phd/internet_coisas/).
+    
 
 
 # Descrição da arquitetura
