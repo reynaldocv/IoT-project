@@ -16,49 +16,32 @@ Toda pessoa que tem um veiculo.
 
 # Descrição técnica
   
-- Raspberry PI 3 B :
+- RASPBERRY PI 3 MODEL B:
 
-  - O módulo câmera VGA OV7670 é um módulo que permite a captura e armazenamento de imagens coloridas pelo seu Arduino, com        uma taxa de atualização de até 30 frames por segundo, com resolução máxima de 640 x 480 Pixels.
-      ![stack Overflow](/img/ov7670.png)
-
+  - É um computador de baixo custo e que tem o tamanho de um cartão de crédito desenvolvido no Reino Unido pela Fundação Raspberry Pi. Para usá-lo, basta plugar um teclado e um mouse padrão a ele e conectar tudo isso a um monitor ou a uma televisão. Os modelos custam entre US$ 25 e US$ 35.
+      ![stack Overflow](/img/Raspberry.png)
 
       - Especificações:      
-        - Tensão de Alimentação:  4-30V;
-        - Escala Linear: + 10.0 mV/˚C;
-        - Temperatura de trabalho em modo básico: 2 a 150ºC;
-        - Temperatura de trabalho em range completo: -55 a +150º C;
-        - Baixa impedância de saída
+        - A 1.2GHz 64-bit quad-core ARMv8 CPU
+        - 802.11n Wireless LAN
+        - Bluetooth 4.1 & Bluetooth Low Energy (BLE)
+        - BCM2837, 1.2GHz 64-bit quad-core ARM Cortex-A53
+        - 1GB RAM
+        - 10/100 Ethernet port
+        - 802.11n WiFi NIC
+        - Bluetooth 4.1 & Bluetooth Low Energy (BLE)
+        - HDMI port
+        - USB 2.0 interface x 4
+        - Micro SD card slot
+        - Combined 3.5mm audio jack and composite video
+        - 40-pin GPIO interface
+        - Camera interface (CSI)
+        - Display interface (DSI)
+        - Upgraded power management, supports more peripherals (requires a 2.5A - 3.0A power supply)Tensão de Alimentação:  4-30V;
         
-        
- - Raspberry PI 3 B :
+ - 2 Celulares (Um para usar sua camera, e outro para usar o aplicativo): De preferencia com Android OS.
 
-  - O módulo câmera VGA OV7670 é um módulo que permite a captura e armazenamento de imagens coloridas pelo seu Arduino, com        uma taxa de atualização de até 30 frames por segundo, com resolução máxima de 640 x 480 Pixels.
-      ![stack Overflow](/img/ov7670.png)
-
-
-      - Especificações:      
-        - Tensão de Alimentação:  4-30V;
-        - Escala Linear: + 10.0 mV/˚C;
-        - Temperatura de trabalho em modo básico: 2 a 150ºC;
-        - Temperatura de trabalho em range completo: -55 a +150º C;
-        - Baixa impedância de saída
-      
-  - O Módulo Wireless ESP8266 permite conectar o seu Arduino nas redes wireless 802.11 b/g/n, enviando e recebendo dados nos modos AP (Access Point/Ponto de acesso) e STA (Station)  
-  ![stack Overflow](/img/Esp8266.png)
-
-
-      - Especificações:      
-        - Conexão à redes padrão 802.11 B/G/N
-        - Alcance aproximado: 91 metros
-        - Tensão de operação : 3.3 VDC
-        - Comunicação serial: pinos TX e RX
-        - Modos de operação : Cliente, Access Point, Cliente+Access Point
-        - Modos de segurança wireless : OPEN/WEP/WPA_PSK/WPA2_PSK/WPA_WPA2_PSK.
-        - Suporta comunicação TCP e UDP, com até 5 conexões simultâneas
-      
-   
-   
-   
+        ![stack Overflow](/img/Celulares.png)
 ## Open-design (extra)
 (Apresentar o design técnico do projeto utilizando alguma ferramenta de diagrama ou mesmo um desenho à mão. Sugestão de ferramentas: Draw.io, Fritzing.org, Gimp.)
 
