@@ -39,7 +39,9 @@ fazer uma estimativa a futuro se no estacionamento.
         
  - 2 CELULARES: Um para usar sua camera, e outro para usar o aplicativo, de preferência com Android OS.
 
-        ![stack Overflow](/img/Celulares.png)
+        ![stack Overflow](/img/celulares.png)
+        
+        
 ## Open-design (extra)
 (Apresentar o design técnico do projeto utilizando alguma ferramenta de diagrama ou mesmo um desenho à mão. Sugestão de ferramentas: Draw.io, Fritzing.org, Gimp.)
 
