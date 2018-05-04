@@ -16,7 +16,21 @@ Toda pessoa que tem um veiculo.
 
 # Descrição técnica
   
-- Módulos:
+- Raspberry PI 3 B :
+
+  - O módulo câmera VGA OV7670 é um módulo que permite a captura e armazenamento de imagens coloridas pelo seu Arduino, com        uma taxa de atualização de até 30 frames por segundo, com resolução máxima de 640 x 480 Pixels.
+      ![stack Overflow](/img/ov7670.png)
+
+
+      - Especificações:      
+        - Tensão de Alimentação:  4-30V;
+        - Escala Linear: + 10.0 mV/˚C;
+        - Temperatura de trabalho em modo básico: 2 a 150ºC;
+        - Temperatura de trabalho em range completo: -55 a +150º C;
+        - Baixa impedância de saída
+        
+        
+ - Raspberry PI 3 B :
 
   - O módulo câmera VGA OV7670 é um módulo que permite a captura e armazenamento de imagens coloridas pelo seu Arduino, com        uma taxa de atualização de até 30 frames por segundo, com resolução máxima de 640 x 480 Pixels.
       ![stack Overflow](/img/ov7670.png)
