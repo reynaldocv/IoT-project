@@ -56,6 +56,12 @@ fazer uma estimativa a futuro se no estacionamento.
   <img src="/img/diagrama.png">
 </p>
 
+# Instalação
+1.- Em um dos celulares instalamos o aplicativo IP Webcam
+(https://pplware.sapo.pt/smartphones-tablets/android/ip-webcam-como-usar-o-seu-android-como-uma-webcam/).
+2.- 
+
+
 # Descrição da arquitetura
 
 A seguir vamos explicar o fluxo da informação:
