@@ -21,6 +21,8 @@ fazer uma estimativa a futuro se no estacionamento.
 <p align="center">
   <img src="/img/Raspberry.png">
 </p>
+
+
       - Especificações:      
         - A 1.2GHz 64-bit quad-core ARMv8 CPU
         - 802.11n Wireless LAN
@@ -48,7 +50,11 @@ fazer uma estimativa a futuro se no estacionamento.
         
         
 ## Open-design (extra)
-(Apresentar o design técnico do projeto utilizando alguma ferramenta de diagrama ou mesmo um desenho à mão. Sugestão de ferramentas: Draw.io, Fritzing.org, Gimp.)
+
+
+<p align="center">
+  <img src="/img/diagrama.png">
+</p>
 
 # Descrição da arquitetura
 
