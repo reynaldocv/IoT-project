@@ -10,8 +10,8 @@ fazer uma estimativa a futuro se no estacionamento.
 
 
 <p align="center">
-  <img src="/img/img_car.jpeg">    
-  <img src="/img/foto_.png">
+  <img withd="200" src="/img/img_car.jpeg">    
+  <img src="/img/foto_.jpg">
    
 </p>
 
