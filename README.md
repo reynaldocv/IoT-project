@@ -99,13 +99,4 @@ Com o outro celular, fazemos uso de um API service https://reynaldocv.pythonanyw
   <img src="/img/vagas.png">
 </p>
 
-## Referências   
- - https://portal.vidadesilicio.com.br/sensor-de-luz-com-ldr/
- - https://www.filipeflop.com/produto/sensor-de-luminosidade-ldr-5mm/
- - https://portal.vidadesilicio.com.br/lm35-medindo-temperatura-com-arduino/
- - https://www.arduinoecia.com.br/2013/02/lm35-sensor-de-temperatura.html
- - https://www.filipeflop.com/blog/modulo-camera-vga-ov7670/
- - https://www.robocore.net/loja/produtos/modulo-wifi-esp8266.html
- - https://www.embarcados.com.br/modulo-esp8266/
-
 
