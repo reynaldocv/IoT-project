@@ -73,6 +73,11 @@ fazer uma estimativa a futuro se no estacionamento.
         - http://reynaldocv.pythonanywhere.com/IoT
         - http://reynaldocv.pythonanywhere.com/Cam
         
+- No outro celular:
+    
+    - Instalamos o [Android APP](/cod_android/app_debug.apk) que foi fieto en Android Studio (java) usando as bibliotecas Picasso (mostrar imagens da web) e Retrofit (consumo de API services) (http://square.github.io/picasso/ e http://blog.matheuscastiglioni.com.br/consumindo-web-service-no-android-com-retrofit). O código do app está localizado em 
+    [cod_android](/cod_android/).
+
          
       
     
