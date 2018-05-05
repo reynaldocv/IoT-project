@@ -58,13 +58,16 @@ fazer uma estimativa a futuro se no estacionamento.
 
 # Instalação
 - Em um dos celulares:
+    
     - Instalamos o aplicativo IP Webcam e executamos. O aplicativo dá um IP (que pode ser acessado numa LAN) onde nós podemos monitorar usando qualquer navegador web (veja a seguiente pagina web https://pplware.sapo.pt/smartphones-tablets/android/ip-webcam-como-usar-o-seu-android-como-uma-webcam/ para mais dados).
 
 - No Raspberry (deve estar na misma LAN do celular com o IP Webcam):
+    
     - Executamos o seguinte [código em python](cod_raspberry/cam.py) que tira a imagen do IP Webcam e que é subida num host (nesse caso foi https://www.ime.usp.br/~reynaldo/phd/internet_coisas/ e processo acontece cada 1 seg.).
     
 - No https://www.pythonanywhere.com/:
-    - Criamos os seguintes APIs executando o seguinte [código em python]((cod_pythonanywhere/app_flask.py)). (Veja a seguinte pagina web https://techtutorialsx.com/2016/12/27/python-anywhere-deploying-a-flask-server-on-the-cloud/ para mais dados).
+    
+    - Criamos os seguintes APIs executando o seguinte [código em python]((cod_pythonanywhere/app_flask.py)). (Veja a seguinte pagina web https://techtutorialsx.com/2016/12/27/python-anywhere-deploying-a-flask-server-on-the-cloud/ para mais dados).
     
     
     
