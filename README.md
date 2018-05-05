@@ -85,9 +85,18 @@ O raspberry tira as imagens de um dos celulares que tem instalado do IP Webcam y
 
 Com o outro celular, fazemos uso de um API service https://reynaldocv.pythonanywhere.com. esse servicio pega a imagem da internet e faz um análise con o API de Pesquisa em Visual Computational para saber a descricao da imagem. e no celular é so mostrar.
 
+# Exemplo 1
 
+ <p align="center">
+  <img src="/img/exemplo.png">
+</p>
 
- 
+# Exemplo 2
+
+ <p align="center">
+  <img src="/img/vagas.png">
+</p>
+
 ## Referências   
  - https://portal.vidadesilicio.com.br/sensor-de-luz-com-ldr/
  - https://www.filipeflop.com/produto/sensor-de-luminosidade-ldr-5mm/
