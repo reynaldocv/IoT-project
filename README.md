@@ -63,7 +63,7 @@ fazer uma estimativa a futuro se no estacionamento.
 - No Raspberry (deve estar na misma LAN do celular com o IP Webcam):
     - Executamos o código seguinte que tira uma imagem cada certo tempo (cada 1 seg) y joga a foto num host (nesse caso foi https://www.ime.usp.br/~reynaldo/phd/internet_coisas/).
     
-    {5:12}(code_raspberry/cam.py)
+    {5:12}(cod_raspberry/cam.py)
     
     
     
