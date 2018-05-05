@@ -67,7 +67,13 @@ fazer uma estimativa a futuro se no estacionamento.
     
 - No https://www.pythonanywhere.com/:
     
-    - Criamos os seguintes APIs executando o seguinte [código em python]((cod_pythonanywhere/app_flask.py)). (Veja a seguinte pagina web https://techtutorialsx.com/2016/12/27/python-anywhere-deploying-a-flask-server-on-the-cloud/ para mais dados).
+    - Criamos os seguintes APIs executando o seguinte [código em python]((cod_pythonanywhere/app_flask.py)). (Veja a seguinte pagina web https://techtutorialsx.com/2016/12/27/python-anywhere-deploying-a-flask-server-on-the-cloud/ para mais dados). Os servicios criados foram:
+        - http://reynaldocv.pythonanywhere.com/
+        - http://reynaldocv.pythonanywhere.com/IoT/
+        - http://reynaldocv.pythonanywhere.com/Cam/
+        
+         
+      
     
     
     
