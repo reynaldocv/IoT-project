@@ -21,7 +21,7 @@ while True:
 	# Save a photo
 	cv2.imwrite('foto.png',img)
 		
-	os.system("sshpass -p '********' scp foto.png reynaldo@ime.usp.br:www/phd/internet_cosas/")
+	os.system("sshpass -p '********' scp foto.png reynaldo@ime.usp.br:www/phd/internet_coisas/")
 	
 	#To give the processor some less stress
 	time.sleep(1)
