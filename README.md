@@ -74,28 +74,19 @@ fazer uma estimativa a futuro se no estacionamento.
         - http://reynaldocv.pythonanywhere.com/Cam
         
 - No outro celular:
-    
-    - Instalamos o [Android APP](/cod_android/app_debug.apk) que foi fieto en Android Studio (java) usando as bibliotecas Picasso (mostrar imagens da web) e Retrofit (consumo de API services) (http://square.github.io/picasso/ e http://blog.matheuscastiglioni.com.br/consumindo-web-service-no-android-com-retrofit). O código do app está localizado em 
-    [cod_android](/cod_android/).
 
-         
-      
-    
-    
-    
+    - Instalamos o [Android APP](/cod_android/app_debug.apk) que foi fieto en Android Studio (java) usando as bibliotecas Picasso (mostrar imagens da web) e Retrofit (consumo de API services) (http://square.github.io/picasso/ e http://blog.matheuscastiglioni.com.br/consumindo-web-service-no-android-com-retrofit). O código do app está localizado em 
+    [cod_android](/cod_android/).
 
 
 # Descrição da arquitetura
 
-A seguir vamos explicar o fluxo da informação:
+O raspberry tira as imagens de um dos celulares que tem instalado do IP Webcam y joga na internet, Isso é feito cada certo tempo (por exemplo: cada 2 segundos).
 
-Cada vez que uma pessoa, quer saber se tem uma vaga no estacionamento, manda una sinal para o Arduino, 
-e tira uma foto (usando o módulo ) no estacionamento, E essa foto é enviada para seu processamento (usando o módulo ).
-E o sistema sabendo quantos carros tem na foto, joga o número de vagas.
+Com o outro celular, fazemos uso de um API service https://reynaldocv.pythonanywhere.com. esse servicio pega a imagem da internet e faz um análise con o API de Pesquisa em Visual Computational para saber a descricao da imagem. e no celular é so mostrar.
 
-Com esses dados, podemos fazer um monte de reportes: 
- - (No momento) Quantas vagas tem no estacionamento.
- - (Estimativas pro futuro) Quantas vagas vai ter, segundo aos dados anteriores? 
+
+
  
 ## Referências   
  - https://portal.vidadesilicio.com.br/sensor-de-luz-com-ldr/
