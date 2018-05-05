@@ -64,6 +64,7 @@ fazer uma estimativa a futuro se no estacionamento.
     - Executamos o código seguinte que tira uma imagem cada certo tempo (cada 1 seg) y joga a foto num host (nesse caso foi https://www.ime.usp.br/~reynaldo/phd/internet_coisas/).
     
     {5:12}(cod_raspberry/cam.py)
+    @[python](cod_raspberry/cam.py)
     
     
     
