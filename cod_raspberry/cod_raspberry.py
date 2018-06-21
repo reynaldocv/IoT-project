@@ -67,24 +67,24 @@ while rval:
         #creando el json
         print("Creando el json")
 					    
-	      output = []
-	      vagas = partes
-	      for i in range(len(caption)):
-	          output.append({'msg': caption[i]})
-	          if "car" in caption[i]:
-	              vagas-=1
-	      output.append({'msg': 'Tem '+str(vagas)+' vagas...'})        
-	      json_file={'output': output}
-	      with open('IoT.json', 'w') as outfile:  
-	          json.dump(json_file, outfile)
-	      os.system("sshpass -p 'Rey@1123' scp IoT.json reynaldo@ime.usp.br:www/phd/internet_coisas/")    
-	    
+        output = []
+				vagas = partes
+				for i in range(len(caption)):
+				    output.append({'msg': caption[i]})
+				if "car" in caption[i]:
+				    vagas-=1
+				output.append({'msg': 'Tem '+str(vagas)+' vagas...'})        
+				json_file={'output': output}
+				with open('IoT.json', 'w') as outfile:  
+				    json.dump(json_file, outfile)
+				os.system("sshpass -p 'Rey@1123' scp IoT.json reynaldo@ime.usp.br:www/phd/internet_coisas/")    
+
 				#cargando dados no reynaldocv.pythonanyhwere.com	
-				print("cargando dados para a database")
-				date = datetime.datetime.now()
-				aux=str(date)+","+str(date.weekday())+","+str(date.hour)+","+str(date.minute)+","+str(vagas)
-				url="http://reynaldocv.pythonanywhere.com/add/"+aux
-				response = requests.get(url)		
+        print("cargando dados para a database")
+        date = datetime.datetime.now()
+        aux=str(date)+","+str(date.weekday())+","+str(date.hour)+","+str(date.minute)+","+str(vagas)
+        url="http://reynaldocv.pythonanywhere.com/add/"+aux
+        response = requests.get(url)		
     except:
         print("error")
     time.sleep(segundos)
