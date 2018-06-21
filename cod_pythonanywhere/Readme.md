@@ -1,4 +1,4 @@
-O arquivo "cod_raspberry.py" deve ser subido no Pythonanywhere y ser executado (para maior detalhe, pode ser de ajuda o seguinte pagina web https://blog.pythonanywhere.com/121/)
+O arquivo "app_flask.py" deve ser subido no Pythonanywhere y ser executado (para maior detalhe, pode ser de ajuda o seguinte pagina web https://blog.pythonanywhere.com/121/)
 
 O arquivo faz o seguinte, faz modificação no arquivo ``dataset.txt``: 
 - tem o módulo add/[text1], que salva o valor de text1 no final do arquivo ''dataset.txt'' 
