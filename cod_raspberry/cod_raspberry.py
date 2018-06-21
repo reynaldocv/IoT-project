@@ -73,7 +73,7 @@ while rval:
             output.append({'msg': caption[i]})
             if "car" in caption[i]:
                 vagas-=1
-        output.append({'msg': 'Tem '+str(vagas)+' vagas...'})        
+        output.append({'msg': 'Tem '+str(vagas)+' vaga(s)...'})        
         json_file={'output': output}
         with open('IoT.json', 'w') as outfile:  
             json.dump(json_file, outfile)
