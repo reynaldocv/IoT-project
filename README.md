@@ -73,9 +73,9 @@ fazer uma estimativa a futuro se no estacionamento.
     
     - Criamos os seguintes APIs executando o seguinte [código em python](cod_pythonanywhere/app_flask.py) que tem comandos para fazer consultas na "API de Pesquisa de Visual Computational" (Veja as seguintes paginas web https://techtutorialsx.com/2016/12/27/python-anywhere-deploying-a-flask-server-on-the-cloud/ e https://azure.microsoft.com/pt-br/services/cognitive-services/computer-vision/ para mais dados). Os servicios criados foram:
         
-        - http://reynaldocv.pythonanywhere.com/add/<text1>
+        - http://reynaldocv.pythonanywhere.com/add/{text1}
         - http://reynaldocv.pythonanywhere.com/dataset/
-        - http://reynaldocv.pythonanywhere.com/futuro/<dia>/<hora>/<minutos>
+        - http://reynaldocv.pythonanywhere.com/futuro/{dia}/{hora}/{minutos}
         
 - No outro celular:
 
