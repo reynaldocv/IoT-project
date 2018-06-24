@@ -57,7 +57,7 @@ fazer uma estimativa a futuro se no estacionamento.
 
 
 <p align="center">
-   <img height="600" src="/IoT project - slides/img/estrutura.jpeg">
+   <img height="500" src="/IoT project - slides/img/estrutura.jpeg">
 </p>
 
 # Instalação
@@ -65,9 +65,9 @@ fazer uma estimativa a futuro se no estacionamento.
     
     - Instalamos o aplicativo IP Webcam e executamos. O aplicativo dá um IP (que pode ser acessado numa LAN) onde nós podemos monitorar usando qualquer navegador web (veja a seguiente pagina web https://pplware.sapo.pt/smartphones-tablets/android/ip-webcam-como-usar-o-seu-android-como-uma-webcam/ para mais dados).
 
-- No Raspberry (deve estar na misma LAN do celular com o IP Webcam):
+- No Raspberry (deve estar na misma LAN do celular com o IP Webcam) o simplesmente conetados a uma câmera USB:
     
-    - Executamos o seguinte [código em python](cod_raspberry/cam.py) que tira a imagen do IP Webcam e que é subida num host (nesse caso foi https://www.ime.usp.br/~reynaldo/phd/internet_coisas/ e processo acontece cada 1 seg.).
+    - Executamos o seguinte [código em python](cod_raspberry/cam.py) que tira a fotoe que é subida num host (nesse caso foi https://www.ime.usp.br/~reynaldo/phd/internet_coisas/ e o processo acontece cada 60 seg.) além disso faz uma análise da imagem com o Computer Vision API - Azure, a informação gerada e salvada num json e num dataset do pythonanywhere. 
     
 - No https://www.pythonanywhere.com/:
     
@@ -85,20 +85,30 @@ fazer uma estimativa a futuro se no estacionamento.
 
 # Descrição da arquitetura
 
-O raspberry tira as imagens de um dos celulares que tem instalado do IP Webcam y joga na internet, Isso é feito cada certo tempo (por exemplo: cada 2 segundos).
+O raspberry tira as imagens de um dos celulares que tem instalado do IP Webcam o pela câmera USB e joga na internet, faz 
+uma análise da imagem com o Computer Vision API, e a informação gerada e salvada num json e num dataset do pythonanywhere. 
 
 Com o outro celular, fazemos uso de um API service https://reynaldocv.pythonanywhere.com. esse servicio pega a imagem da internet e faz um análise con o API de Pesquisa em Visual Computational para saber a descricao da imagem. e no celular é so mostrar.
 
 # Exemplo 1
 
  <p align="center">
-  <img src="/img/exemplo.png">
+     <img height="200" src="/IoT project - slides/img/app_foto_2.png">    
+     <img height="200" src="/IoT project - slides/img/app_foto_1.png"> 
+     <img height="200" src="/IoT project - slides/img/futuro_1.png"> 
+    
+ 
 </p>
 
-# Exemplo 2
-
+# Exemplo com carrinhos
  <p align="center">
-  <img src="/img/vagas.png">
+     <img height="200" src="/IoT project - slides/img/carrinho_1.png">    
+     <img height="200" src="/IoT project - slides/img/carrinho_2.png"> 
+     <img height="200" src="/IoT project - slides/img/carrinho_6.png"> 
+    
+ 
 </p>
+
+
 
 
