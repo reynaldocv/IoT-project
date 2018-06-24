@@ -44,10 +44,13 @@ fazer uma estimativa a futuro se no estacionamento.
         - Upgraded power management
         - supports more peripherals (requires a 2.5A - 3.0A power supply)Tensão de Alimentação:  4-30V;
         
- - 2 CELULARES: Um para usar sua camera, e outro para usar o aplicativo, de preferência com Android OS.
+ - 2 Câmeras: Usamos dois tipos: uma de um celular e outra com conexão USB.
+   - Camera Multilaser WC040
 
   <p align="center">
-  <img src="/img/celulares.png">
+  <img src="/img/slide_cam1.jpg">
+   - Celular LG G3
+  <img src="/img/slide_cam2.jpg">
 </p>
         
         
