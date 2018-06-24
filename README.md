@@ -57,7 +57,7 @@ fazer uma estimativa a futuro se no estacionamento.
 
 
 <p align="center">
-   <img height="800" src="/IoT project - slides/img/estrutura.jpeg">
+   <img height="600" src="/IoT project - slides/img/estrutura.jpeg">
 </p>
 
 # Instalação
