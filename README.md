@@ -10,8 +10,8 @@ fazer uma estimativa a futuro se no estacionamento.
 
 
 <p align="center">
-  <img height="200" src="/IoT project - slides/img/img_car.jpeg">    
-  <img height="200" src="/img/foto_.jpg">
+  <img height="100" src="/IoT project - slides/img/slide_cam1.jpeg">    
+  <img height="100" src="/IoT project - slides/img/slide_cam2.jpeg">
    
 </p>
 
