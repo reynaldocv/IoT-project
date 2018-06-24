@@ -93,18 +93,18 @@ Com o outro celular, fazemos uso de um API service https://reynaldocv.pythonanyw
 # Exemplo 1
 
  <p align="center">
-     <img height="450" src="/IoT project - slides/img/app_foto_2.png">    
-     <img height="450" src="/IoT project - slides/img/app_foto_1.png"> 
-     <img height="450" src="/IoT project - slides/img/futuro_1.png"> 
+     <img height="460" src="/IoT project - slides/img/app_foto_2.png">    
+     <img height="460" src="/IoT project - slides/img/app_foto_1.png"> 
+     <img height="460" src="/IoT project - slides/img/futuro_1.png"> 
     
  
 </p>
 
 # Exemplo com carrinhos
  <p align="center">
-     <img height="420" src="/IoT project - slides/img/carrinho_1.png">    
-     <img height="420" src="/IoT project - slides/img/carrinho_2.png"> 
-     <img height="420" src="/IoT project - slides/img/carrinho_6.png"> 
+     <img height="460" src="/IoT project - slides/img/carrinho_1.png">    
+     <img height="460" src="/IoT project - slides/img/carrinho_2.png"> 
+     <img height="460" src="/IoT project - slides/img/carrinho_6.png"> 
     
  
 </p>
