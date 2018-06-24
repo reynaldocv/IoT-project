@@ -10,8 +10,7 @@ fazer uma estimativa a futuro se no estacionamento.
 
 
 <p align="center">
-  <img height="200" src="/IoT project - slides/img/slide_cam1.jpeg">    
-  <img height="200" src="/IoT project - slides/img/slide_cam2.jpg">
+  <img height="200" src="/IoT project - slides/img/img_car.jpeg">    
    
 </p>
 
@@ -48,10 +47,10 @@ fazer uma estimativa a futuro se no estacionamento.
    - Camera Multilaser WC040
 
   <p align="center">
-  <img src="/IoT%20project%20-%20slides/img/Azuri_1.png">
+  <img height="200" src="/IoT project - slides/img/slide_cam1.jpeg">    
    - Celular LG G3
-  <img src="/img/slide_cam2.jpg">
-</p>
+  <img height="200" src="/IoT project - slides/img/slide_cam2.jpg">
+  </p>
         
         
 ## Open-design (extra)
