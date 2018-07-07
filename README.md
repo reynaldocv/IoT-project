@@ -47,7 +47,8 @@ fazer uma estimativa a futuro se no estacionamento.
    - Camera Multilaser WC040
 
   <p align="center">
-  <img height="200" src="/IoT project - slides/img/slide_cam1.jpeg">    
+  <img height="200" src="/IoT project - slides/img/slide_cam1.jpeg">  
+    
    - Celular LG G3
   <img height="200" src="/IoT project - slides/img/slide_cam2.jpg">
   </p>
