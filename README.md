@@ -44,15 +44,16 @@ fazer uma estimativa a futuro se no estacionamento.
         - supports more peripherals (requires a 2.5A - 3.0A power supply)Tensão de Alimentação:  4-30V;
         
  - 2 Câmeras: Usamos dois tipos: uma de um celular e outra com conexão USB.
-   - Camera Multilaser WC040
-
+    - Camera Multilaser WC040
   <p align="center">
   <img height="200" src="/IoT project - slides/img/slide_cam1.jpeg">  
-    
-   - Celular LG G3
-  <img height="200" src="/IoT project - slides/img/slide_cam2.jpg">
   </p>
-        
+    
+    - Celular LG G3
+    
+  <p align="center">  
+  <img height="200" src="/IoT project - slides/img/slide_cam2.jpg">
+  </p>      
         
 ## Open-design (extra)
 
